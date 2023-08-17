@@ -6,20 +6,6 @@
 
 ----
 
-# Project Tasks:
-Read through the client brief and understand the client and business problem at hand.
-
-Analyse the background information provided to identify the requirements that I need to deliver as a data analyst. 
-
-Identify which task should be assigned to me to ensure my team is aligned on deliverables.
-
-----
-
-# Solution
-
-**Our data analysis system** will obtain, process, and collate the volume of data and provide data analysis to the client and business to make strategic business decisions.
-
-----
 # Process
 ![](./docs/data_analytics_process.jpg)
 ### Data Understanding 
@@ -51,11 +37,17 @@ Identify which task should be assigned to me to ensure my team is aligned on del
  <img src = "Project Team.png">
  
  #### Task for Data Analyst :
-Analysis of sample data sets with visualizations to understand the popularity of different content categories.
+ 
+Read through the client brief and understand the client and business problem at hand.
 
-In short, the client wanted to see **“An analysis of their content categories showing the top 5 categories with the largest popularity”.** 
+Analyse the background information provided to identify the requirements that I need to deliver as a data analyst. 
 
+Identify which task should be assigned to me to ensure my team is aligned on deliverables.
 
+ 
+ 
+ 
+ 
  - Often you won’t need all these datasets to find what you’re looking for.
  - So, the first step is to use this [data model](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data%20model.pdf) to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
  - After Analysis we got data sets needed to complete analysis:

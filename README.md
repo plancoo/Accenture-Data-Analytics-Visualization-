@@ -43,16 +43,16 @@ An analysis of their content categories that highlights the top 5 categories wit
 ----
 # Process
 ![](./docs/data_analytics_process.jpg)
-### Data Understanding
-### Data Cleaning
-###  Data Modelling
-### Data Analysis
+### Data Understanding 
+### Data Cleaning 
+###  Data Modelling 
+### Data Analysis and Visualization
 ### Uncover Insights
 
 ----
 # The Approach
 
-### Project Understanding:
+### Data (Project) Understanding:
 **A data analyst sits between the business and the data.**
 
  - One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.

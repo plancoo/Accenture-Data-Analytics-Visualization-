@@ -42,8 +42,8 @@ Identify which task should be assigned to me to ensure my team is aligned on del
 
  >- Client's Problem that Accenture is tasked to address :  The problem being faced by Social Buzz is the challenge of effectively managing and analysing the massive amount of unstructured data generated from their rapidly growing user base. The company needs to find a solution to efficiently handle and maintain this complex technology infrastructure.
  >- Three requirements that Accenture is tasked to fulfill :
-              - An audit of their big data practice ​
-              - Recommendations for a successful IPO ​
+              - An audit of their big data practice ​                                                     
+              - Recommendations for a successful IPO ​                                    
               - An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity​
 
  

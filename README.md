@@ -52,7 +52,7 @@ An analysis of their content categories that highlights the top 5 categories wit
 ----
 # The Approach
 
-### Data (Project) Understanding:
+## Data (Project) Understanding:
 **A data analyst sits between the business and the data.**
 
  - One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
@@ -73,7 +73,7 @@ Analysis of sample data sets with visualizations to understand the popularity of
 
 In short, the client wanted to see **“An analysis of their content categories showing the top 5 categories with the largest popularity”.** 
 
-## Task - 2
+
  - Often you won’t need all these datasets to find what you’re looking for.
  - So, the first step is to use this [data model](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data%20model.pdf) to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
  - After Analysis we got data sets needed to complete analysis:
@@ -83,7 +83,7 @@ In short, the client wanted to see **“An analysis of their content categories 
  >- Content type
  >- Category
  
-### Data Cleaning:
+## Data Cleaning:
 #### Clean the data by:
  - removing rows that have values which are missing,
  - changing the data type of some values within a column, and
@@ -95,7 +95,7 @@ In short, the client wanted to see **“An analysis of their content categories 
  - [Reactions](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Reactions.csv)
  - [Content](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Content.csv)
 
-### Data Modelling:
+## Data Modelling:
 
 **Create a final data set by merging 3 tables**
 
@@ -106,8 +106,8 @@ In short, the client wanted to see **“An analysis of their content categories 
  ### Cleaned Data set:
  So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Cleaned%20Dataset.xlsx)
  
- ## Task - 3
- ### Data Visualization and Storytelling:
+
+ ## Data Visualization and Storytelling:
  **Make the Powerpoint presentation as per the given template**
  
  **Charts Involved :**
@@ -116,8 +116,10 @@ In short, the client wanted to see **“An analysis of their content categories 
   
  - Powerpoint Presentation : [PPT](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/PowerPoint%20presentation.pptx)
  
- ## Task - 4
- ### Present to the Client:
+
+ ## Uncover Insights
+ 
+ Present to the Client:
  **Present your powerpoint presentation to the client and deliver the insights of your analysis** 
  
 

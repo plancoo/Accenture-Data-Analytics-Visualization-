@@ -44,11 +44,11 @@ An analysis of their content categories that highlights the top 5 categories wit
 # Process
 
 ![](./docs/data_analytics_process.jpg)
-## Data Understanding
-## Data Cleaning
-##  Data Modelling
-## Data Analysis
-## Uncover Insights
+### Data Understanding
+### Data Cleaning
+###  Data Modelling
+### Data Analysis
+### Uncover Insights
 
 ----
 # The Approach

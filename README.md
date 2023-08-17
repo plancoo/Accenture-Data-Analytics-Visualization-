@@ -44,6 +44,7 @@ Analyse the background information provided to identify the requirements that I 
 
 Identify which task should be assigned to me to ensure my team is aligned on deliverables.
 
+
  
  
 ## Data Cleaning:
@@ -58,6 +59,9 @@ Identify which task should be assigned to me to ensure my team is aligned on del
  - [Reactions](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Reactions.csv)
  - [Content](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Content.csv)
 
+
+
+
 ## Data Modelling:
 
 **Create a final data set by merging 3 tables**
@@ -70,12 +74,17 @@ Identify which task should be assigned to me to ensure my team is aligned on del
  So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Cleaned%20Dataset.xlsx)
  
 
+
+
+
  ## Data Visualization and Storytelling:
  **Make the Powerpoint presentation as per the given template**
  
  **Charts Involved :**
   >- Pie Chart
   >- Bar Chart
+
+
   
  
 

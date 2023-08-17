@@ -15,27 +15,6 @@ Identify which task should be assigned to me to ensure my team is aligned on del
 
 ----
 
-# Client
-Social Buzz is a San Francisco based fast growing company which tracks anonymous user reactions on contents. We are running a 3-month POC focusing on these tasks: ​
-
-- An audit of their big data practice ​
-
-- Recommendations for a successful IPO ​
-
-- An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity​
-
-# Business Problem
-
-The client has reached a massive scale within recent years and does not have the resources internally to handle it.
-
- The problem being faced by Social Buzz is the challenge of effectively managing and analysing the massive amount of unstructured data generated from their rapidly growing user base. The company needs to find a solution to efficiently handle and maintain this complex technology infrastructure:
- 
-Over 500 million active users each month producing over 100,000 ​pieces of content per day! ​
-
-How to see where they are with this highly unstructured big data?​
-
-An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity​
-
 # Solution
 
 **Our data analysis system** will obtain, process, and collate the volume of data and provide data analysis to the client and business to make strategic business decisions.
@@ -61,8 +40,12 @@ An analysis of their content categories that highlights the top 5 categories wit
 
 #### Task for Accenture : 
 
- >- Client's Problem that Accenture is tasked to address : The client has reached a massive scale within recent years and does not have the resources internally to handle it.
- >- Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content
+ >- Client's Problem that Accenture is tasked to address :  The problem being faced by Social Buzz is the challenge of effectively managing and analysing the massive amount of unstructured data generated from their rapidly growing user base. The company needs to find a solution to efficiently handle and maintain this complex technology infrastructure.
+ >- Three requirements that Accenture is tasked to fulfill :
+              - An audit of their big data practice ​
+              - Recommendations for a successful IPO ​
+              - An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity​
+
  
  #### Accenture Project Team :
  <img src = "Project Team.png">

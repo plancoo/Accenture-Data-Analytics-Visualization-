@@ -49,8 +49,7 @@ An analysis of their content categories that highlights the top 5 categories wit
 ### Data Analysis and Visualization
 ### Uncover Insights
 
-----
-# The Approach
+
 
 ## Data (Project) Understanding:
 **A data analyst sits between the business and the data.**

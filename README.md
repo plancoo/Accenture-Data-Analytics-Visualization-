@@ -37,11 +37,11 @@
  
  #### Task for Data Analyst :
  
-  >-Read through the client brief and understand the client and business problem at hand.
+  >- Read through the client brief and understand the client and business problem at hand.
 
-  >-Analyse the background information provided to identify the requirements that I need to deliver as a data analyst.
+  >- Analyse the background information provided to identify the requirements that I need to deliver as a data analyst.
 
-  >-Identify which task should be assigned to me to ensure my team is aligned on deliverables.
+  >- Identify which task should be assigned to me to ensure my team is aligned on deliverables.
 
 
  

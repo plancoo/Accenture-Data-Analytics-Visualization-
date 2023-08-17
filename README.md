@@ -33,7 +33,6 @@
               - An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity​
 
  
- #### Accenture Project Team :
  <img src = "Project Team.png">
  
  #### Task for Data Analyst :

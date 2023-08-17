@@ -1,6 +1,6 @@
 ## ACCENTURE DATA ANALYTICS AND VISUALISATION VIRTUAL Internship 
 
- In this fictional and immersive online experience, I am a Data Analyst at Accenture, and I work on an analysis of sample data sets with visualisations to understand the popularity of different content categories. Within my larger team, each member has a different role and level of responsibility. My team has been assigned a new project for a client called Social Buzz. 
+ In this fictional and immersive online experience, I am a Data Analyst at Accenture, and I work on an analysis of sample data sets with visualisations to understand the popularity of different content categories. Within my larger team, each member has a different role and level of responsibility. My team has been assigned a new project for a client called Social Buzz.                                                                                        
 
 
 

@@ -24,7 +24,10 @@ Social Buzz is a San Francisco based fast growing company which tracks anonymous
 
 - An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity​
 
-# Business problem
+# Business Problem
+
+The client has reached a massive scale within recent years and does not have the resources internally to handle it.
+ the client stated that scale was a big problem of theirs and they are struggling to manage the scale with the resources that they currently have. The brief said that the client is looking for help with the management of their journey into such a large scale
 
 Over 500 million active users each month producing over 100,000 ​pieces of content per day! ​
 

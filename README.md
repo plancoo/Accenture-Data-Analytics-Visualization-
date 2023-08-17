@@ -1,8 +1,8 @@
-# `ACCENTURE DATA ANALYTICS AND VISUALISATION VIRTUAL EXPERIENCE PROJECT`
+# ACCENTURE DATA ANALYTICS AND VISUALISATION VIRTUAL EXPERIENCE PROJECT
 
-### In this fictional and immersive online experience, I am a Data Analyst at Accenture, and I work on an analysis of sample data sets with visualisations to understand the popularity of different content categories. Within my larger team, each member has a different role and level of responsibility. My team has been assigned a new project for a client called Social Buzz. 
+ In this fictional and immersive online experience, I am a Data Analyst at Accenture, and I work on an analysis of sample data sets with visualisations to understand the popularity of different content categories. Within my larger team, each member has a different role and level of responsibility. My team has been assigned a new project for a client called Social Buzz. 
 
-### Although in the project, data cleaning, modelling, analysis and visualisation are all done on Excel, I wanted to use Pandas for data cleaning and modelling, PostgreSQL for database solution and Grafana for data visualisation. 
+
 
 ----
 

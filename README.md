@@ -46,17 +46,6 @@ Identify which task should be assigned to me to ensure my team is aligned on del
 
  
  
- 
- 
- - Often you won’t need all these datasets to find what you’re looking for.
- - So, the first step is to use this [data model](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data%20model.pdf) to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
- - After Analysis we got data sets needed to complete analysis:
- >- Reaction Score(score is used to quantified the popularity)
- >- Content ID
- >- Reaction Types
- >- Content type
- >- Category
- 
 ## Data Cleaning:
 #### Clean the data by:
  - removing rows that have values which are missing,
@@ -88,12 +77,13 @@ Identify which task should be assigned to me to ensure my team is aligned on del
   >- Pie Chart
   >- Bar Chart
   
- - Powerpoint Presentation : [PPT](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/PowerPoint%20presentation.pptx)
  
 
  ## Uncover Insights
  
  Present to the Client:
  **Present your powerpoint presentation to the client and deliver the insights of your analysis** 
- 
+
+  - Powerpoint Presentation : [PPT](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/PowerPoint%20presentation.pptx)
+
 
